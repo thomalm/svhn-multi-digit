@@ -13,6 +13,8 @@ All the code in this project has been written using Python 2.7 and the ConvNets 
 * ```05-svhn-multi-preprocessing.ipynb```: contains code for pre-processing the original SVHN images
 * ```06-svhn-multi-model.ipynb```: contains code for implementing a ConvNet for recognising multiple digits from the original SVHN dataset using TensorFlow and TensorBoard.
 
+## How can you use what is contained in this repository?
+
 To start Tensorboard run ```tensorboard --logdir=logs/svhn_multi/``` in the project folder.
 
 ## Resources
