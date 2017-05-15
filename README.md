@@ -2,7 +2,7 @@
 
 This project explores how Convolutional Neural Networks (ConvNets) can be used to identify series of digits in natural images taken from The Street View House Numbers (SVHN) dataset.
 
-All the code in this project has been written using Python 2.7 and the ConvNets have been implemented using TensorFlow.
+All the code in this project has been written using Python 2.7 and the Convolutional Neural Networks have been implemented using TensorFlow.
 
 ## What is contained in this repository?
 
@@ -13,9 +13,9 @@ All the code in this project has been written using Python 2.7 and the ConvNets 
 * ```05-svhn-multi-preprocessing.ipynb```: contains code for pre-processing the original SVHN images
 * ```06-svhn-multi-model.ipynb```: contains code for implementing a ConvNet for recognising multiple digits from the original SVHN dataset using TensorFlow and TensorBoard.
 
-## How can you use what is contained in this repository?
+## Tensorboard
 
-To start Tensorboard run ```tensorboard --logdir=logs/svhn_multi/``` in the project folder.
+To start Tensorboard run ```tensorboard --logdir=logs/<log dir>/``` in the project folder.
 
 ## Resources
 
